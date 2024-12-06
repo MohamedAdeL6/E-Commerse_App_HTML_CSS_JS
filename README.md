@@ -1,5 +1,5 @@
 # E-Commerse_App_HTML_CSS_JS
-![](assets/Images/Readme/5.png)
+![](/img/Readme/5.png)
 ## Demo :  https://mohamedadel6.github.io/E-Commerse_App_HTML_CSS_JS/
 # You can find the following features :
 ### ❖ Responsive Website
